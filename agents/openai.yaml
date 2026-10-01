@@ -1,0 +1,4 @@
+interface:
+  display_name: "受眾分析試算表"
+  short_description: "依專案資料與參考格式製作可投放的新客受眾分析試算表"
+  default_prompt: "使用 $build-audience-analysis-sheet，依我的專案資料與參考表格製作受眾分析試算表。"
